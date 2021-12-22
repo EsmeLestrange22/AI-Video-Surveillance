@@ -1,0 +1,26 @@
+body {
+    background: rgb(118, 61, 114);
+    background: radial-gradient(circle, rgba(118, 61, 114, 1) 0%, rgba(38, 7, 34, 1) 17%, rgba(83, 16, 75, 1) 35%, rgba(181, 7, 140, 1) 58%, rgba(8, 10, 83, 1) 100%);
+font-family: cursive;
+color: peachpuff;
+}
+h2{
+    background-color: black;
+    width: fit-content;
+    padding: 10px;
+border-radius: 5px;
+}
+#status, #no_objs{
+    background-color: crimson;
+    width: fit-content;
+    padding: 10px;
+border-radius: 5px;
+font-size: 20px;
+}
+canvas{
+    background-color: peachpuff;
+    border-radius: 5px;
+    border-style: double;
+    border-width: 6px;
+    border-color: black;
+}
